@@ -9,7 +9,7 @@ Below is a data mining and scripting exercise. Note that we will use it to evalu
 **To Do :**
 1. Follow the instructions below while maintaining a presentable (clean) script. Ideally we ask that you 
 make your script available on your own github.com account (Use the free version here : https://github.com/).  
-1. Send us the link to your final commit before 9am the next day
+1. Send us the link to your final commit before 9am the day of your interview
 1. During the interview, we will ask that you present your work (preprocessing, model training, performance assessment, results & discussion).
 We encourage you to present the results using either a **notebook** or a **README** file. At the very least, you should ensure
 that your results are presentable.
